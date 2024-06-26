@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 nacos/nacos-server:v2.2.3
 mysql:5.7
+bitnami/openresty
