@@ -11,3 +11,4 @@ bitnami/openresty
 docker.io/mysql/mysql-server:8.0.32
 portainer/portainer
 redis
+sonatype/nexus3
