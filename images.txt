@@ -9,3 +9,4 @@ nacos/nacos-server:v2.2.3
 mysql:5.7
 bitnami/openresty
 docker.io/mysql/mysql-server:8.0.32
+sonatype/nexus3
