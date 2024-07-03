@@ -16,4 +16,5 @@
 #redis:7.0.0
 #openjdk:17-jdk-oracle
 #alibabadragonwell/dragonwell:17-anolis
-rabbitmq:3.11.1-management
+#rabbitmq:3.11.1-management
+nacos/nacos-server:v2.2.1
