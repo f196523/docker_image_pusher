@@ -15,4 +15,5 @@
 #mysql-server:8.0.32
 #redis:7.0.0
 #openjdk:17-jdk-oracle
-alibabadragonwell/dragonwell:17-anolis
+#alibabadragonwell/dragonwell:17-anolis
+rabbitmq:3.11.1-management
