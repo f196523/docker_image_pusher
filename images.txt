@@ -13,5 +13,6 @@
 #redis
 #sonatype/nexus3
 #mysql-server:8.0.32
-redis:7.0.0
-openjdk:17-jdk-oracle
+#redis:7.0.0
+#openjdk:17-jdk-oracle
+alibabadragonwell/dragonwell:17-anolis
