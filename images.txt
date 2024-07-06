@@ -22,4 +22,5 @@
 #jenkins/jenkins
 #gitea/gitea
 #minio/minio
-alpine
+#alpine
+openjdk:17-jdk-oracle
