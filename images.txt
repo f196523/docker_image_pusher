@@ -23,4 +23,5 @@
 #gitea/gitea
 #minio/minio
 #alpine
-openjdk:17-jdk-oracle
+#openjdk:17-jdk-oracle
+bitnami/openresty
