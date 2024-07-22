@@ -24,4 +24,5 @@
 #minio/minio
 #alpine
 #openjdk:17-jdk-oracle
-bitnami/openresty
+#bitnami/openresty
+mcr.microsoft.com/mssql/server:2017-latest
