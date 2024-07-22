@@ -25,4 +25,5 @@
 #alpine
 #openjdk:17-jdk-oracle
 #bitnami/openresty
-mcr.microsoft.com/mssql/server:2017-latest
+#mcr.microsoft.com/mssql/server:2017-latest
+gitea/gitea:latest
