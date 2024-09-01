@@ -26,7 +26,10 @@
 #openjdk:17-jdk-oracle
 #bitnami/openresty
 #mcr.microsoft.com/mssql/server:2017-latest
-mcr.microsoft.com/mssql/server:2022-latest
+#mcr.microsoft.com/mssql/server:2022-latest
 #gitea/gitea:latest
 #mongo:latest
 #mongo:4.4
+
+hub.zentao.net/app/zentao:18.5
+hub.zentao.net/app/zentao:20.6
