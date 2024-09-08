@@ -9,7 +9,7 @@
 #mysql:5.7
 #bitnami/openresty
 #docker.io/mysql/mysql-server:8.0.32
-#portainer/portainer
+portainer/portainer
 #redis
 #sonatype/nexus3
 #mysql-server:8.0.32
@@ -31,5 +31,5 @@
 #mongo:latest
 #mongo:4.4
 
-hub.zentao.net/app/zentao:18.5
-hub.zentao.net/app/zentao:20.6
+#hub.zentao.net/app/zentao:18.5
+#hub.zentao.net/app/zentao:20.6
