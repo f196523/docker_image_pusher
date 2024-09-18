@@ -9,12 +9,16 @@
 #mysql:5.7
 #bitnami/openresty
 #docker.io/mysql/mysql-server:8.0.32
-portainer/portainer
+#portainer/portainer
 #redis
 #sonatype/nexus3
 #mysql-server:8.0.32
 #redis:7.0.0
+
+# --jdk--
 #openjdk:17-jdk-oracle
+openjdk:8-jdk-alpine
+
 #alibabadragonwell/dragonwell:17-anolis
 #rabbitmq:3.11.1-management
 #nacos/nacos-server:v2.2.1
@@ -23,7 +27,6 @@ portainer/portainer
 #gitea/gitea
 #minio/minio
 #alpine
-#openjdk:17-jdk-oracle
 #bitnami/openresty
 #mcr.microsoft.com/mssql/server:2017-latest
 #mcr.microsoft.com/mssql/server:2022-latest
