@@ -17,7 +17,7 @@
 
 # --jdk--
 #openjdk:17-jdk-oracle
-openjdk:8-jdk-alpine
+#openjdk:8-jdk-alpine
 
 #alibabadragonwell/dragonwell:17-anolis
 #rabbitmq:3.11.1-management
@@ -36,3 +36,5 @@ openjdk:8-jdk-alpine
 
 #hub.zentao.net/app/zentao:18.5
 #hub.zentao.net/app/zentao:20.6
+
+dockurr/windows
