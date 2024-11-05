@@ -37,4 +37,6 @@
 #hub.zentao.net/app/zentao:18.5
 #hub.zentao.net/app/zentao:20.6
 
-dockurr/windows
+#dockurr/windows
+
+wiznote/wizserver
