@@ -42,3 +42,4 @@
 wiznote/wizserver
 
 prom/prometheus
+grafana/grafana
