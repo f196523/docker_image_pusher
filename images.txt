@@ -22,6 +22,8 @@
 #alibabadragonwell/dragonwell:17-anolis
 #rabbitmq:3.11.1-management
 #nacos/nacos-server:v2.2.1
+nacos/nacos-server:v2.2.3
+
 #xuxueli/xxl-job-admin:2.4.0
 #jenkins/jenkins
 #gitea/gitea
@@ -39,7 +41,7 @@
 
 #dockurr/windows
 
-wiznote/wizserver
+#wiznote/wizserver
 
-prom/prometheus
-grafana/grafana
+#prom/prometheus
+#grafana/grafana
