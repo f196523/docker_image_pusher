@@ -48,4 +48,5 @@ nacos/nacos-server:v2.4.3
 #grafana/grafana
 
 
-tiangolo/nginx-rtmp
+#tiangolo/nginx-rtmp
+ubuntu:24.04
