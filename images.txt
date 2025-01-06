@@ -53,5 +53,4 @@ nacos/nacos-server:v2.4.3
 
 #selenium/standalone-chrome-debug
 
-microsoft/mssql-server-windows
-
+tomcat:8.5.97-jre8
