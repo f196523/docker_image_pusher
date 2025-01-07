@@ -54,4 +54,5 @@ nacos/nacos-server:v2.4.3
 #selenium/standalone-chrome-debug
 
 #tomcat:8.5.97-jre8
-tomcat:9.0-jre8
+#tomcat:9.0-jre8
+tomcat:9-jdk8-corretto
