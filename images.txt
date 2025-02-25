@@ -57,4 +57,5 @@ nacos/nacos-server:v2.4.3
 #tomcat:9.0-jre8
 #tomcat:9-jdk8-corretto
 
-ibmcom/mq
+#ibmcom/mq
+ghcr.io/open-webui/open-webui
