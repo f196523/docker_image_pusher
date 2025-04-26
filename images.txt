@@ -26,7 +26,7 @@
 nacos/nacos-server:v2.4.3
 
 #xuxueli/xxl-job-admin:2.4.0
-#jenkins/jenkins
+jenkins/jenkins
 #gitea/gitea
 #minio/minio
 #alpine
@@ -68,5 +68,5 @@ nacos/nacos-server:v2.4.3
 #valkey/valkey:8
 
 #infiniflow/ragflow:v0.16.0
-postgres
-dpage/pgadmin4
+#postgres
+#dpage/pgadmin4
