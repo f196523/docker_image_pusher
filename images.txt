@@ -71,3 +71,5 @@ mcr.microsoft.com/mssql/server:2019-latest
 #infiniflow/ragflow:v0.16.0
 #postgres
 #dpage/pgadmin4
+
+portainer/helper-reset-password
