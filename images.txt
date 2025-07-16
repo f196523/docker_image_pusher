@@ -74,4 +74,5 @@ mcr.microsoft.com/mssql/server:2019-latest
 
 #portainer/helper-reset-password
 
-ibmcom/mq
+#ibmcom/mq
+icr.io/ibm-messaging/mq
