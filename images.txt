@@ -79,4 +79,6 @@ mcr.microsoft.com/mssql/server:2019-latest
 
 
 #registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
-wnameless/oracle-xe-11g-r2:latest
+#wnameless/oracle-xe-11g-r2:latest
+
+arm64v8/openjdk:8-jre-slim
