@@ -71,6 +71,7 @@ mcr.microsoft.com/mssql/server:2019-latest
 #infiniflow/ragflow:v0.16.0
 #postgres
 #dpage/pgadmin4
+arm64v8/postgres:16-alpine
 
 #portainer/helper-reset-password
 
@@ -81,4 +82,4 @@ mcr.microsoft.com/mssql/server:2019-latest
 #registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
 #wnameless/oracle-xe-11g-r2:latest
 
-arm64v8/openjdk:8-jre-slim
+#arm64v8/openjdk:8-jre-slim
