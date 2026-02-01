@@ -9,7 +9,7 @@
 #mysql:5.7
 #bitnami/openresty
 #docker.io/mysql/mysql-server:8.0.32
-#portainer/portainer
+portainer/portainer
 #redis
 #sonatype/nexus3
 #mysql-server:8.0.32
@@ -83,4 +83,6 @@ mcr.microsoft.com/mssql/server:2019-latest
 
 #arm64v8/openjdk:8-jre-slim
 
-eclipse-temurin:8-jre-focal
+#eclipse-temurin:8-jre-focal
+
+eclipse-temurin:11-jdk
