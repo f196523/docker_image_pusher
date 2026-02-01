@@ -88,4 +88,7 @@ mcr.microsoft.com/mssql/server:2019-latest
 #eclipse-temurin:11-jdk
 
 
-bltavares/zerotier:latest
+#bltavares/zerotier:latest
+
+
+jeessy/ddns-go:latest
