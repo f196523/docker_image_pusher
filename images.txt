@@ -91,4 +91,8 @@ mcr.microsoft.com/mssql/server:2019-latest
 #bltavares/zerotier:latest
 
 
-jeessy/ddns-go:latest
+#jeessy/ddns-go:latest
+
+
+# idea专业版
+jetbrains/projector-idea-u:latest
